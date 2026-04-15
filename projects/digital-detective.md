@@ -20,6 +20,10 @@ Python CLI for OSINT-style lookups against usernames, IP addresses, and name-sea
 - performs people-search style name lookups
 - supports combined sequential searches in one run
 
+## Limitation
+
+Full name search is intentionally limited and incomplete because access to legal name-search databases is restricted. The feature is presented as a constrained learning exercise, not a complete investigation tool.
+
 ## Repo
 
 - https://github.com/Maqqqqq/digital-detective
