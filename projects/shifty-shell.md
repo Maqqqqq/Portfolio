@@ -1,10 +1,10 @@
 # Shifty Shell
 
-Controlled SSH reverse-shell lab exploring encrypted sessions and traffic shaping.
+SSH reverse-shell project exploring encrypted sessions and traffic shaping.
 
 ## Educational Use Only
 
-This project is for controlled lab education only. Do not run it on systems you do not own or without explicit written permission.
+This project is for education and authorized testing only. Do not run it on systems you do not own or without explicit written permission.
 
 ## Author
 
@@ -21,13 +21,7 @@ This project is for controlled lab education only. Do not run it on systems you 
 - demonstrates SSH-based reverse shell behavior
 - rotates encryption algorithms during a session
 - explores traffic wrapping concepts
-- runs only as a controlled lab demo
-
-## Why It Belongs Here
-
-- shows defensive understanding of remote-shell behavior
-- gives interview context for detection and mitigation discussion
-- should always be framed as educational lab work
+- requires an owned or explicitly authorized environment
 
 ## Repo
 

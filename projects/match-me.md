@@ -1,6 +1,6 @@
-# Match-me
+# Match Me
 
-Full-stack matchmaking app with backend state, realtime chat, and a proper multi-service setup.
+Full-stack matchmaking app with authentication, profiles, recommendations, realtime chat, and a multi-service setup.
 
 ## Stack
 
@@ -22,18 +22,6 @@ Full-stack matchmaking app with backend state, realtime chat, and a proper multi
 - profile editing and recommendation flow
 - connection management and chat
 - image uploads and seeded demo data
-
-## Why It Belongs Here
-
-- strongest full-stack project in the portfolio
-- combines API, database, frontend, auth, and realtime messaging
-- looks closer to a product than a classroom exercise
-
-## Reviewer Notes
-
-- good project to lead with
-- worth adding screenshots of profile, matches, and chat
-- repo should include one clean architecture diagram later
 
 ## Repo
 

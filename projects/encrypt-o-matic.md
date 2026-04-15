@@ -1,4 +1,4 @@
-# Encrypt-o-matic
+# Encrypt O Matic
 
 CLI for encrypting and restoring files with multiple algorithms and operational options.
 
@@ -17,17 +17,6 @@ CLI for encrypting and restoring files with multiple algorithms and operational 
 - supports compression and size padding
 - derives protection from passwords
 - includes timer-based restore behavior
-
-## Why It Belongs Here
-
-- good applied-crypto exercise
-- more substantial than a single-purpose script
-- shows attention to operational workflow
-
-## Reviewer Notes
-
-- keep README focused on safe educational use
-- add one realistic example flow
 
 ## Repo
 

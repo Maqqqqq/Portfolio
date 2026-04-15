@@ -1,6 +1,6 @@
-# DVWA Bug Bounty Lab
+# Bug Bounty
 
-Controlled penetration-testing lab against DVWA on Metasploitable 2.
+School security-testing project against DVWA running on Metasploitable 2.
 
 ## Educational Use Only
 
@@ -23,12 +23,6 @@ This project documents a controlled lab exercise only. Do not apply these techni
 - captures findings and evidence
 - includes remediation notes
 - keeps testing boundaries explicit
-
-## Why It Belongs Here
-
-- shows security methodology
-- demonstrates reporting discipline
-- keeps offensive material inside a legal lab context
 
 ## Repo
 
