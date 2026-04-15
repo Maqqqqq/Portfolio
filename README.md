@@ -4,6 +4,12 @@ Software developer building practical tools across backend, frontend, and securi
 
 This portfolio collects the projects worth reviewing first. I prefer small, working systems with clear behavior, runnable setup, and direct documentation.
 
+## Development Approach
+
+I use AI tools as an assistant for review, debugging, documentation, and exploring implementation options.
+
+I do not rely on "vibe coding" as a substitute for understanding the code. I still expect myself to read, test, explain, and own the final implementation.
+
 ## Featured Projects
 
 ### Match-me
