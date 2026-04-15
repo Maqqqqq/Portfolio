@@ -9,6 +9,10 @@ Tool for combining two ELF binaries into a single executable that runs both.
 - LIEF
 - Linux ELF tooling
 
+## Author
+
+- Markus Stamm
+
 ## What It Does
 
 - accepts compiled ELF inputs

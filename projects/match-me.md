@@ -11,6 +11,11 @@ Full-stack matchmaking app with backend state, realtime chat, and a proper multi
 - STOMP over WebSocket
 - Docker Compose
 
+## Authors
+
+- Markus Stamm
+- Anders Mait Alberg
+
 ## What It Does
 
 - user registration and JWT-based authentication

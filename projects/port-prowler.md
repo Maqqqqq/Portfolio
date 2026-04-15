@@ -6,6 +6,10 @@ CLI utility for TCP, UDP, and stealth-style port scanning.
 
 - Python
 
+## Author
+
+- Markus Stamm
+
 ## What It Does
 
 - scans single ports, ranges, and lists

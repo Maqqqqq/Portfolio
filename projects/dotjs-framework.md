@@ -8,6 +8,12 @@ Custom frontend framework project with runtime code, docs, and an example applic
 - browser runtime
 - monorepo workspace setup
 
+## Authors
+
+- Markus Stamm
+- Anders Mait Alberg
+- Erik Allas
+
 ## What It Does
 
 - provides a small framework runtime

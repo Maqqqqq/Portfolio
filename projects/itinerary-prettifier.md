@@ -9,6 +9,10 @@ Java CLI that turns raw itinerary text into more readable airport and time outpu
 - CSV parsing
 - date/time formatting
 
+## Author
+
+- Markus Stamm
+
 ## What It Does
 
 - reads itinerary input files

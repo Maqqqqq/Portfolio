@@ -7,6 +7,10 @@ Spring Boot backend for movies, genres, and actors with linked domain entities.
 - Java
 - Spring Boot
 
+## Author
+
+- Markus Stamm
+
 ## What It Does
 
 - stores movies, genres, and actors

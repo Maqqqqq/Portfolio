@@ -9,6 +9,10 @@ Flask app for image and audio steganography with simple forensic inspection feat
 - HTML/CSS
 - Docker
 
+## Author
+
+- Markus Stamm
+
 ## What It Does
 
 - hides text inside PNG, JPG, and WAV files

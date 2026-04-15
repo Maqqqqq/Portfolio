@@ -11,6 +11,7 @@ Full-stack matchmaking platform built as a complete product, not just a CRUD dem
 
 - Stack: Java 17, Spring Boot, React 19, Vite, PostgreSQL, STOMP/WebSocket, Docker Compose
 - Scope: JWT auth, profile management, recommendations, chat, uploads, seeded test data
+- Authors: Markus Stamm, Anders Mait Alberg
 - Why it matters: strongest end-to-end application here, with real backend state, realtime features, and a multi-service setup
 - Details: [projects/match-me.md](./projects/match-me.md)
 - Repo: https://github.com/Maqqqqq/match-me
@@ -20,6 +21,7 @@ CLI for OSINT-style lookups across usernames, IP addresses, and people search da
 
 - Stack: Python, Typer, requests, Rich-style CLI output, external APIs
 - Scope: username checks, IP enrichment, name search, sequential combined lookups
+- Author: Markus Stamm
 - Why it matters: good example of input validation, external integration, and building a usable command-line workflow
 - Details: [projects/digital-detective.md](./projects/digital-detective.md)
 - Repo: https://github.com/Maqqqqq/digital-detective
@@ -29,6 +31,7 @@ Web app for steganography and lightweight digital forensics workflows.
 
 - Stack: Python, Flask, HTML/CSS, Docker
 - Scope: hide and recover text in images/audio, optional password protection, compression, detection heuristics, downloadable output
+- Author: Markus Stamm
 - Why it matters: most distinctive security project in the set, with a concrete user interface and clear domain focus
 - Details: [projects/invisibits.md](./projects/invisibits.md)
 - Repo: https://github.com/Maqqqqq/invisibits
@@ -38,6 +41,7 @@ Realtime racetrack operations system for front desk, race control, and live stat
 
 - Stack: Node.js, Express, Socket.IO, Sequelize, SQLite
 - Scope: role-based access, lap tracking, race timers, live dashboards, session-backed workflows
+- Author: Markus Stamm
 - Why it matters: strong operations-style app with multiple user roles and realtime coordination
 - Details: [projects/racetrack.md](./projects/racetrack.md)
 - Repo: https://github.com/Maqqqqq/racetrack
@@ -47,6 +51,7 @@ Custom frontend framework project with runtime and example application.
 
 - Stack: JavaScript, browser runtime, workspace-based monorepo
 - Scope: framework runtime, routing, documentation, sample app
+- Authors: Markus Stamm, Anders Mait Alberg, Erik Allas
 - Why it matters: shows lower-level frontend thinking beyond app assembly
 - Details: [projects/dotjs-framework.md](./projects/dotjs-framework.md)
 - Repo: https://github.com/Maqqqqq/dotjs-framework
@@ -56,6 +61,7 @@ Browser multiplayer survival game inspired by Tron.
 
 - Stack: JavaScript, Node.js, Express, Socket.IO
 - Scope: browser-based multiplayer sessions, keyboard controls, host flow, realtime gameplay
+- Authors: Markus Stamm, Anders Mait Alberg
 - Why it matters: demonstrates event-driven state handling and game-oriented interaction logic
 - Details: [projects/tronitron-9000.md](./projects/tronitron-9000.md)
 - Repo: https://github.com/Maqqqqq/tronitron-9000
@@ -67,6 +73,7 @@ Network scanning CLI for TCP, UDP, and stealth-style probing.
 
 - Stack: Python
 - Scope: port ranges, multithreaded scanning, terminal reporting, optional export
+- Author: Markus Stamm
 - Value: good systems/networking exercise with a practical CLI surface
 - Details: [projects/port-prowler.md](./projects/port-prowler.md)
 - Repo: https://github.com/Maqqqqq/port-prowler
@@ -76,6 +83,7 @@ File encryption utility with multiple algorithms and operational options.
 
 - Stack: Python, cryptography
 - Scope: AES/ChaCha20/Twofish, compression, padding, password-derived keys, timed restore workflow
+- Author: Markus Stamm
 - Value: strong applied-security exercise with clear feature boundaries
 - Details: [projects/encrypt-o-matic.md](./projects/encrypt-o-matic.md)
 - Repo: https://github.com/Maqqqqq/encrypt-o-matic
@@ -85,6 +93,7 @@ Utility for combining two ELF executables into a single runnable output.
 
 - Stack: Python, GCC, LIEF, Linux ELF tooling
 - Scope: executable fusion, binary handling, linker/runtime constraints
+- Author: Markus Stamm
 - Value: niche and technically interesting systems project
 - Details: [projects/binary-fusion.md](./projects/binary-fusion.md)
 - Repo: https://github.com/Maqqqqq/binary-fusion
@@ -94,6 +103,7 @@ Backend API for movies, genres, and actors.
 
 - Stack: Java, Spring Boot
 - Scope: entity relationships, persistence, API endpoints, Postman-based testing
+- Author: Markus Stamm
 - Value: useful baseline backend project showing Java fundamentals before larger systems
 - Details: [projects/movie-api.md](./projects/movie-api.md)
 - Repo: https://github.com/Maqqqqq/movie-api
@@ -103,6 +113,7 @@ Java CLI that transforms raw itinerary text into readable airport and time outpu
 
 - Stack: Java, file I/O, CSV parsing, date/time formatting
 - Scope: airport code expansion, date formatting, time conversion, batch text processing
+- Author: Markus Stamm
 - Value: compact example of parsing, transformation, and command-line problem solving
 - Details: [projects/itinerary-prettifier.md](./projects/itinerary-prettifier.md)
 - Repo: https://github.com/Maqqqqq/itinerary-prettifier

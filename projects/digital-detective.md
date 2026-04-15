@@ -9,6 +9,10 @@ Python CLI for OSINT-style lookups against usernames, IP addresses, and people s
 - requests
 - external lookup APIs
 
+## Author
+
+- Markus Stamm
+
 ## What It Does
 
 - checks usernames across configurable platforms

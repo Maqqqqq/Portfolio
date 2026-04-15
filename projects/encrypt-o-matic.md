@@ -7,6 +7,10 @@ CLI for encrypting and restoring files with multiple algorithms and operational 
 - Python
 - cryptography
 
+## Author
+
+- Markus Stamm
+
 ## What It Does
 
 - encrypts files with AES, ChaCha20, or Twofish

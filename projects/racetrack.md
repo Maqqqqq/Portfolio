@@ -10,6 +10,10 @@ Realtime operations dashboard for racetrack sessions, staff workflows, and publi
 - Sequelize
 - SQLite
 
+## Author
+
+- Markus Stamm
+
 ## What It Does
 
 - supports receptionist, race control, and safety roles
