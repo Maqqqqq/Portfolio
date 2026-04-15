@@ -124,6 +124,28 @@ Java CLI that transforms raw itinerary text into readable airport and time outpu
 - Details: [projects/itinerary-prettifier.md](./projects/itinerary-prettifier.md)
 - Repo: https://github.com/Maqqqqq/itinerary-prettifier
 
+## Cybersecurity Labs
+
+These projects are included for educational and authorized lab use only.
+
+### DVWA Bug Bounty Lab
+Controlled penetration-testing lab against DVWA on Metasploitable 2.
+
+- Stack: Linux, DVWA, Metasploitable 2, lab tooling
+- Scope: scoped lab testing, evidence collection, findings write-up, remediation notes
+- Author: Markus Stamm
+- Value: shows methodology, reporting, and responsible testing boundaries
+- Repo: https://github.com/Maqqqqq/bug-bounty-lab
+
+### Shifty Shell
+Controlled SSH reverse-shell lab exploring encrypted sessions and traffic shaping.
+
+- Stack: Python, Paramiko, cryptography
+- Scope: lab-only reverse shell behavior, session encryption, algorithm rotation
+- Author: Markus Stamm
+- Value: shows defensive understanding of how remote shells behave and why controls matter
+- Repo: https://github.com/Maqqqqq/shifty-shell
+
 ## What I Would Review First
 
 If I were screening this portfolio as an engineer, I would open projects in this order:
@@ -150,15 +172,6 @@ Projects intentionally not included in the public portfolio:
 - `audit/`
 - any repo containing classroom audit material
 - anything that depends on private keys, live secrets, or unsafe public positioning
-
-Projects I would keep private or de-emphasize unless carefully reframed:
-
-- `shifty-shell`
-- `bug-bounty`
-
-Reason:
-- public portfolio should optimize for professionalism
-- security work should stay clearly defensive, educational, or lab-scoped
 
 ## Next Improvements
 

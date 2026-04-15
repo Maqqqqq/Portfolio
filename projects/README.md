@@ -13,3 +13,5 @@ Detailed project notes:
 - [Binary Fusion](./binary-fusion.md)
 - [Movie-API](./movie-api.md)
 - [Itinerary Prettifier](./itinerary-prettifier.md)
+- [DVWA Bug Bounty Lab](./bug-bounty-lab.md)
+- [Shifty Shell](./shifty-shell.md)
