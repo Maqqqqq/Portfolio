@@ -22,7 +22,7 @@ Full-stack matchmaking platform with authentication, profiles, recommendations, 
 - Repo: https://github.com/Maqqqqq/match-me
 
 ### Digital Detective
-CLI for OSINT-style lookups across usernames, IP addresses, and people search data.
+CLI for OSINT-style lookups across usernames, IP addresses, and name-search data.
 
 - Stack: Python, Typer, requests, CLI output, external APIs
 - Scope: username checks, IP enrichment, name search, sequential combined lookups
@@ -115,7 +115,7 @@ Java CLI that transforms raw itinerary text into readable airport and time outpu
 
 ## Cybersecurity Labs
 
-These projects are included for educational and authorized lab use only.
+These projects are included for educational use and authorized testing only.
 
 ### Bug Bounty
 School security-testing project against DVWA running on Metasploitable 2.
@@ -123,6 +123,7 @@ School security-testing project against DVWA running on Metasploitable 2.
 - Stack: Linux, DVWA, Metasploitable 2, VirtualBox
 - Scope: scoped lab testing, evidence collection, findings write-up, remediation notes
 - Author: Markus Stamm
+- Details: [projects/bug-bounty-lab.md](./projects/bug-bounty-lab.md)
 - Repo: https://github.com/Maqqqqq/bug-bounty-lab
 
 ### Shifty Shell
@@ -131,4 +132,5 @@ SSH reverse-shell project exploring encrypted sessions and traffic shaping.
 - Stack: Python, Paramiko, cryptography
 - Scope: reverse shell behavior, session encryption, algorithm rotation
 - Author: Markus Stamm
+- Details: [projects/shifty-shell.md](./projects/shifty-shell.md)
 - Repo: https://github.com/Maqqqqq/shifty-shell
