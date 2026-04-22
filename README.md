@@ -1,6 +1,6 @@
 # Markus Stamm
 
-Software developer focused on backend systems, security tooling, and practical full-stack applications.
+Aspiring software developer with interest in QA testing, practical full-stack applications, and cybersecurity. I feel most drawn to cybersecurity and QA. I enjoy learning them the most.
 
 This portfolio focuses on practical, runnable projects with clear documentation.
 
